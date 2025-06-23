@@ -21,7 +21,7 @@ Advantages:
 - Cost Effective
 - Performance
 
-![diagram](static-website-s3/diagram.png)
+![diagram](diagram.png)
 
 ```
 {
