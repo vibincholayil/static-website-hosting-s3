@@ -23,7 +23,7 @@ Advantages:
 
 ![diagram](diagram.png)
 
-```
+
 Step 1
 I have created a s3.
 
@@ -34,7 +34,7 @@ Step 3
 Add Static website hosting (Properties)
 
 ![image](https://github.com/user-attachments/assets/bbd2d046-3bbc-412a-b894-8f9a327d1ae6)
-
+```
 
 {
     "Version": "2012-10-17",
