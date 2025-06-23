@@ -52,6 +52,8 @@ Edit permmision and provide policy
     ]
 }
 ```
-create iam policy
-Cloudfront - Content Delivery Network (CDN) 
-CloudFront caches that content at edge locations (data centers) around the world
+
+We can see the output by clicking link in web hosting.  
+
+### Conclusion
+By configuring a secure bucket policy, you can easily host a static website on Amazon S3 and control access efficiently. This approach ensures that the website is publicly accessible for reading, while preventing unauthorized users from modifying or deleting the content. Additionally, integrating AWS CloudFront with your S3 bucket can improve content delivery speed globally, enhancing the user experience while maintaining a secure environment for your files.  
