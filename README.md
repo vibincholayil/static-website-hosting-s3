@@ -21,7 +21,7 @@ Advantages:
 - Cost Effective
 - Performance
 
-![diagram](diagram.png)
+![diagram](images/diagram.png)
 
 
 Step 1  
@@ -33,7 +33,7 @@ Add files in the bucket inside s3.
 Step 3  
 Add Static website hosting (Properties)
 
-![steps](steps1.png)
+![steps](images/steps1.png)
 
 Step 4  
 Edit permmision and provide policy 
