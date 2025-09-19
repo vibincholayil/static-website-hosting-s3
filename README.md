@@ -1,5 +1,5 @@
 # Hosting a Static Website on Amazon S3 with Secure Access
-Hosting a Static Website on Amazon S3 with Secure Access
+Hosting a Static Website on Amazon S3 with Secure Access.
 
 #### Problem Statement
 Nowadays increasing the demand of cost-effective, highly available, and globally accessible websites.  
